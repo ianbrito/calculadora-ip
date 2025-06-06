@@ -1,3 +1,6 @@
+// go playground: https://go.dev/play/p/2afDVHfrvqs
+// github: https://github.com/ianbrito/calculadora-ip
+
 package main
 
 import (
